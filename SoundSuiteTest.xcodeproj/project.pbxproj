@@ -16,6 +16,8 @@
 		099B44C02867EB24007861C5 /* SoundSuiteTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 099B44BF2867EB24007861C5 /* SoundSuiteTestTests.swift */; };
 		099B44CA2867EB24007861C5 /* SoundSuiteTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 099B44C92867EB24007861C5 /* SoundSuiteTestUITests.swift */; };
 		099B44CC2867EB24007861C5 /* SoundSuiteTestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 099B44CB2867EB24007861C5 /* SoundSuiteTestUITestsLaunchTests.swift */; };
+		099B44D92867F078007861C5 /* DJ Got Us.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 099B44D82867F078007861C5 /* DJ Got Us.mp3 */; };
+		099B44DB2867FAED007861C5 /* Purple Lamborghini.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 099B44DA2867FAED007861C5 /* Purple Lamborghini.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		099B44C52867EB24007861C5 /* SoundSuiteTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SoundSuiteTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		099B44C92867EB24007861C5 /* SoundSuiteTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundSuiteTestUITests.swift; sourceTree = "<group>"; };
 		099B44CB2867EB24007861C5 /* SoundSuiteTestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundSuiteTestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		099B44D82867F078007861C5 /* DJ Got Us.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "DJ Got Us.mp3"; sourceTree = "<group>"; };
+		099B44DA2867FAED007861C5 /* Purple Lamborghini.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Purple Lamborghini.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,8 @@
 				099B44A82867EB23007861C5 /* AppDelegate.swift */,
 				099B44AA2867EB23007861C5 /* SceneDelegate.swift */,
 				099B44AC2867EB23007861C5 /* ViewController.swift */,
+				099B44D82867F078007861C5 /* DJ Got Us.mp3 */,
+				099B44DA2867FAED007861C5 /* Purple Lamborghini.mp3 */,
 				099B44AE2867EB23007861C5 /* Main.storyboard */,
 				099B44B12867EB23007861C5 /* Assets.xcassets */,
 				099B44B32867EB23007861C5 /* LaunchScreen.storyboard */,
@@ -231,9 +237,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				099B44DB2867FAED007861C5 /* Purple Lamborghini.mp3 in Resources */,
 				099B44B52867EB23007861C5 /* LaunchScreen.storyboard in Resources */,
 				099B44B22867EB23007861C5 /* Assets.xcassets in Resources */,
 				099B44B02867EB23007861C5 /* Main.storyboard in Resources */,
+				099B44D92867F078007861C5 /* DJ Got Us.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
